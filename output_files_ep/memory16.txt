@@ -1,0 +1,20 @@
+TIME 0 ms
+Partition 1 (40MB): P1
+Partition 2 (25MB): free
+Partition 3 (15MB): free
+Partition 4 (10MB): free
+Partition 5 (8MB): free
+Partition 6 (2MB): free
+Total Used: 40 MB
+Total Free: 60 MB
+
+TIME 800 ms
+Partition 1 (40MB): free
+Partition 2 (25MB): free
+Partition 3 (15MB): free
+Partition 4 (10MB): free
+Partition 5 (8MB): free
+Partition 6 (2MB): free
+Total Used: 0 MB
+Total Free: 100 MB
+

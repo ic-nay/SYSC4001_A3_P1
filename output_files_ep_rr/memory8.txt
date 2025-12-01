@@ -1,0 +1,180 @@
+TIME 0 ms
+Partition 1 (40MB): P1
+Partition 2 (25MB): free
+Partition 3 (15MB): free
+Partition 4 (10MB): free
+Partition 5 (8MB): free
+Partition 6 (2MB): free
+Total Used: 40 MB
+Total Free: 60 MB
+
+TIME 490 ms
+Partition 1 (40MB): free
+Partition 2 (25MB): free
+Partition 3 (15MB): free
+Partition 4 (10MB): free
+Partition 5 (8MB): free
+Partition 6 (2MB): free
+Total Used: 0 MB
+Total Free: 100 MB
+
+TIME 500 ms
+Partition 1 (40MB): P2
+Partition 2 (25MB): free
+Partition 3 (15MB): free
+Partition 4 (10MB): free
+Partition 5 (8MB): free
+Partition 6 (2MB): free
+Total Used: 40 MB
+Total Free: 60 MB
+
+TIME 900 ms
+Partition 1 (40MB): free
+Partition 2 (25MB): free
+Partition 3 (15MB): free
+Partition 4 (10MB): free
+Partition 5 (8MB): free
+Partition 6 (2MB): free
+Total Used: 0 MB
+Total Free: 100 MB
+
+TIME 1200 ms
+Partition 1 (40MB): P4
+Partition 2 (25MB): free
+Partition 3 (15MB): free
+Partition 4 (10MB): free
+Partition 5 (8MB): free
+Partition 6 (2MB): free
+Total Used: 40 MB
+Total Free: 60 MB
+
+TIME 1430 ms
+Partition 1 (40MB): free
+Partition 2 (25MB): free
+Partition 3 (15MB): free
+Partition 4 (10MB): free
+Partition 5 (8MB): free
+Partition 6 (2MB): free
+Total Used: 0 MB
+Total Free: 100 MB
+
+TIME 0 ms
+Partition 1 (40MB): P1
+Partition 2 (25MB): free
+Partition 3 (15MB): free
+Partition 4 (10MB): free
+Partition 5 (8MB): free
+Partition 6 (2MB): free
+Total Used: 40 MB
+Total Free: 60 MB
+
+TIME 490 ms
+Partition 1 (40MB): free
+Partition 2 (25MB): free
+Partition 3 (15MB): free
+Partition 4 (10MB): free
+Partition 5 (8MB): free
+Partition 6 (2MB): free
+Total Used: 0 MB
+Total Free: 100 MB
+
+TIME 500 ms
+Partition 1 (40MB): P2
+Partition 2 (25MB): free
+Partition 3 (15MB): free
+Partition 4 (10MB): free
+Partition 5 (8MB): free
+Partition 6 (2MB): free
+Total Used: 40 MB
+Total Free: 60 MB
+
+TIME 840 ms
+Partition 1 (40MB): free
+Partition 2 (25MB): free
+Partition 3 (15MB): free
+Partition 4 (10MB): free
+Partition 5 (8MB): free
+Partition 6 (2MB): free
+Total Used: 0 MB
+Total Free: 100 MB
+
+TIME 1200 ms
+Partition 1 (40MB): P4
+Partition 2 (25MB): free
+Partition 3 (15MB): free
+Partition 4 (10MB): free
+Partition 5 (8MB): free
+Partition 6 (2MB): free
+Total Used: 40 MB
+Total Free: 60 MB
+
+TIME 1430 ms
+Partition 1 (40MB): free
+Partition 2 (25MB): free
+Partition 3 (15MB): free
+Partition 4 (10MB): free
+Partition 5 (8MB): free
+Partition 6 (2MB): free
+Total Used: 0 MB
+Total Free: 100 MB
+
+TIME 0 ms
+Partition 1 (40MB): P1
+Partition 2 (25MB): free
+Partition 3 (15MB): free
+Partition 4 (10MB): free
+Partition 5 (8MB): free
+Partition 6 (2MB): free
+Total Used: 40 MB
+Total Free: 60 MB
+
+TIME 490 ms
+Partition 1 (40MB): free
+Partition 2 (25MB): free
+Partition 3 (15MB): free
+Partition 4 (10MB): free
+Partition 5 (8MB): free
+Partition 6 (2MB): free
+Total Used: 0 MB
+Total Free: 100 MB
+
+TIME 500 ms
+Partition 1 (40MB): P2
+Partition 2 (25MB): free
+Partition 3 (15MB): free
+Partition 4 (10MB): free
+Partition 5 (8MB): free
+Partition 6 (2MB): free
+Total Used: 40 MB
+Total Free: 60 MB
+
+TIME 840 ms
+Partition 1 (40MB): free
+Partition 2 (25MB): free
+Partition 3 (15MB): free
+Partition 4 (10MB): free
+Partition 5 (8MB): free
+Partition 6 (2MB): free
+Total Used: 0 MB
+Total Free: 100 MB
+
+TIME 1200 ms
+Partition 1 (40MB): P4
+Partition 2 (25MB): free
+Partition 3 (15MB): free
+Partition 4 (10MB): free
+Partition 5 (8MB): free
+Partition 6 (2MB): free
+Total Used: 40 MB
+Total Free: 60 MB
+
+TIME 1430 ms
+Partition 1 (40MB): free
+Partition 2 (25MB): free
+Partition 3 (15MB): free
+Partition 4 (10MB): free
+Partition 5 (8MB): free
+Partition 6 (2MB): free
+Total Used: 0 MB
+Total Free: 100 MB
+
